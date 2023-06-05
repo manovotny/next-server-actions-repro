@@ -9,7 +9,7 @@ export default function Home() {
       <ServerComponent />
       <ClientComponent />
       <p>
-        ☝️ Clicking this with an <code>edge</code> runtime will work. ❌
+        ☝️ Clicking this with an <code>edge</code> runtime will *not* work. ❌
       </p>
     </>
   );
